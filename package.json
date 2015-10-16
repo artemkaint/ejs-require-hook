@@ -1,0 +1,27 @@
+{
+  "name": "ejs-require-hook",
+  "version": "0.0.1",
+  "description": "Common js require hook for ejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemkaint/ejs-require-hook.git"
+  },
+  "keywords": [
+    "require",
+    "hook",
+    "ejs"
+  ],
+  "author": "Artem Soltynskiy <artemkaint@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/artemkaint/ejs-require-hook/issues"
+  },
+  "homepage": "https://github.com/artemkaint/ejs-require-hook#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
